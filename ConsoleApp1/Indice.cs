@@ -35,7 +35,7 @@ namespace Course {
                 Console.WriteLine("19 - Estrutura de Matrizes para informar a diagonal principal");
                 Console.WriteLine("20 - Estrutura de Expressão condicional ternária");
                 Console.WriteLine("21 - Estrutura de ToString ferramentas");
-                Console.WriteLine("22 - Em Produção...");
+                Console.WriteLine("22 - Estrutura de datas e horas DateTime (Para observar)");
                 Console.WriteLine();
 
                 // Escolha do exercício
